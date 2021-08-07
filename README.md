@@ -2,7 +2,12 @@
 
 # Welcome to MyGit 😄
 
-My name is **Shrikant Biyani**, I am **`Data Science` & `Machine Learning` Enthuasis**.
+My name is **Shrikant Biyani**, I am **`Data Science` & `Machine Learning` Enthusiast**.
+
+
+Please Help yourselves with some good content below. 👇
+
+
 
 
 <!--
@@ -18,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://gist.github.com/rxaviers/7360908
 -->
