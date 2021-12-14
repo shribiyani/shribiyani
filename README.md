@@ -4,7 +4,7 @@
 
 ## I am  **`Shrikant Biyani`** and I am a **`Data Scientist` & `Machine Learning Engineer`**.
 
-⚡ Fun fact: I am not Tech Background 😄 But still Seeking an Opportunity in Data Science 😄
+⚡ Fun fact: I am Commerce Graduate 😄 and aiming AI Engineer 😄
 
 
 Please Help yourselves with some good content below. 👇
