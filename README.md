@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hey there 👋
 
 # Welcome to MyGit 😄
 
-My name is **Shrikant Biyani**, I am **`Data Science` & `Machine Learning` Enthusiast**.
+## I am  **`Shrikant Biyani`** and I am a **`Data Scientist` & `Machine Learning Engineer`**.
+
+⚡ Fun fact: I am not Tech Background 😄 But still Seeking an Opportunity in Data Science 😄
 
 
 Please Help yourselves with some good content below. 👇
