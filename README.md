@@ -6,12 +6,12 @@
 # About Me
 ## I am  **`Shrikant Biyani`** and I am a **`Data Scientist`**.
 
-🌱 I’m currently learning Applying Machine Learning and Deep Learing in Finance And Accounting 
-⚡ Fun fact: I am Commerce Graduate 😄 and aiming AI Engineer 😄
-📚 Good Understaing of Machine Learning Algorithms and Concepts
-🦾 Good Analitical Skills and Understands Business Requirements
-🔬 Loves to Experiment with Data and find interesting facts.
-📫 How to reach me: shri.biyani@gmail.com
+- 🌱 I’m currently learning Applying Machine Learning and Deep Learing in Finance And Accounting 
+- ⚡ Fun fact: I am Commerce Graduate 😄 and aiming AI Engineer 😄
+- 📚 Good Understaing of Machine Learning Algorithms and Concepts
+- 🦾 Good Analitical Skills and Understands Business Requirements
+- 🔬 Loves to Experiment with Data and find interesting facts.
+- 📫 How to reach me: shri.biyani@gmail.com
 
 #### 💼 Work Experience
 1. **iNeuron Intelligence, Bangalore** — Data Scientist Intern - 
