@@ -1,23 +1,21 @@
-### Hey there 👋
+### Hey there 👋 
 
 # Welcome to MyGit 😄
 
-## I am  **`Shrikant Biyani`** and I am a **`Data Scientist` & `Machine Learning Engineer`**.
 
+# About Me
+## I am  **`Shrikant Biyani`** and I am a **`Data Scientist`**.
+
+🌱 I’m currently learning Applying Machine Learning and Deep Learing in Finance And Accounting 
 ⚡ Fun fact: I am Commerce Graduate 😄 and aiming AI Engineer 😄
-
-
-Please Help yourselves with some good content below. 👇
-
-
-
-## About Me 
+📚 Good Understaing of Machine Learning Algorithms and Concepts
+🦾 Good Analitical Skills and Understands Business Requirements
+🔬 Loves to Experiment with Data and find interesting facts.
+📫 How to reach me: shri.biyani@gmail.com
 
 #### 💼 Work Experience
 1. **iNeuron Intelligence, Bangalore** — Data Scientist Intern - 
    August 2021 - Present
-   
-   
    - Domains worked in - Banking, e-Commerce, Retail
    - Data Wrangling and Data Cleaning;
    - Text Analysis and Cleaning;
