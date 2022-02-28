@@ -15,7 +15,9 @@ Please Help yourselves with some good content below. 👇
 
 #### 💼 Work Experience
 1. **iNeuron Intelligence, Bangalore** — Data Scientist Intern
-   August 2021 - Present
+   * August 2021 - Present
+   
+   
    - Domains worked in - Banking, e-Commerce, Retail
    - Data Wrangling and Data Cleaning;
    - Text Analysis and Cleaning;
